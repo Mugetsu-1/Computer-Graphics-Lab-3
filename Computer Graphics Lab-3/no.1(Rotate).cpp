@@ -2,7 +2,6 @@
 #include <conio.h>
 #include <math.h>
 #include <iostream>
-#include "common.h"
 
 void translate(int x, int y, int tx, int ty) {
     setcolor(YELLOW);
