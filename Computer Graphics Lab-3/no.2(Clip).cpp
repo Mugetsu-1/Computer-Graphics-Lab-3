@@ -1,7 +1,6 @@
 #include <graphics.h>
 #include <conio.h>
 #include <iostream>
-#include "common.h"  
 
 using namespace std;
 
